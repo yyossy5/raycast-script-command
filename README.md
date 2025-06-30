@@ -1,0 +1,1 @@
+# raycast-script-command
